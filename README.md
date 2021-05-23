@@ -20,4 +20,5 @@ https://api.nytimes.com
 - description allows the reader to understand your project
 put movie title and click search then you can get the movie information and news
 
-the link allows them to visit the site
+- the link allows them to visit the site
+https://github.com/SungheeMoon/Project-1
